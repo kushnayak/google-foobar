@@ -70,3 +70,4 @@ public class challenge2 {
         System.out.println(solution(0 ,1));
     }
 }
+
